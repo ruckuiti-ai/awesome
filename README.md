@@ -11,6 +11,7 @@
 ## Awesome Page
 - https://github.com/owainlewis/awesome-artificial-intelligence
 - https://github.com/ChristosChristofidis/awesome-deep-learning
+- https://github.com/terryum/awesome-deep-learning-papers
 
 ### Game
 - https://github.com/SKTBrain/awesome-starcraftAI
