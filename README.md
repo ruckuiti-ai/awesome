@@ -6,6 +6,7 @@
 
 ## Instruction
 - https://github.com/ruckuiti-ai/handson-ml
+- http://scikit-learn.org/stable/user_guide.html
 - https://github.com/brinkar/real-world-machine-learning
 
 ## Awesome Page
