@@ -9,6 +9,9 @@
 - http://scikit-learn.org/stable/user_guide.html
 - https://github.com/brinkar/real-world-machine-learning
 
+## Cheat Sheet
+- https://github.com/kailashahirwar/cheatsheets-ai/
+
 ## Awesome Page
 - https://github.com/owainlewis/awesome-artificial-intelligence
 - https://github.com/ChristosChristofidis/awesome-deep-learning
